@@ -1,0 +1,5 @@
+{
+  "name": "FarmSetu Weather Data Dashboard",
+  "description": "A frontend-only simulation of a weather data dashboard for FarmSetu, showcasing summarized UK MetOffice climate data. Features filtering, data visualization with charts, summary statistics, and a data table.",
+  "requestFramePermissions": []
+}
